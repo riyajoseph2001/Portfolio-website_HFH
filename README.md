@@ -47,7 +47,7 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-<img src="Screenshot(2).png">
+<img src="Screenshot (2).png">
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
