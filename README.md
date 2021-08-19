@@ -1,6 +1,6 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# Portfolio Website
 
 A brief description of what this project does and who it's for
 
@@ -12,23 +12,27 @@ Insert gif or link to demo, or video
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Divya Revindran[https://github.com/DivyaRevindran]
+2. Riya Joseph [https://github.com/riyajoseph2001]
 Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
 ## Tech Stack
+Html,CSS
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+Eg: Flutter,Python, Html, CSS,Javascript
 
   
 ## Working of the project
+
 
 1. Explaining the working of project
 2. Embed video of project demo
 
   
 ## Features
+-  Responsive
+-  Cool Images
 Examples:
 - Cool Animations
 - Responsive
