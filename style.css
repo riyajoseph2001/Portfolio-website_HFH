@@ -1,0 +1,128 @@
+body{
+  background-color: rgb(2, 2, 20)!important;
+}
+.navbar
+{
+    background-color: #08172e;
+    
+}
+.navbar-dark .navbar-nav .nav-link
+{
+  color:white!important;
+  margin: 0 17px 0;
+
+}
+.navbar-brand img{
+  width: 2.5em;
+  margin: 0 6px 6px 0;
+  
+}
+.navbar-dark .navbar-brand{
+  color: white !important;
+  font-size: 24px;
+}
+#home
+{
+  color: white;
+  text-align: center;
+}
+#home img
+{
+  width: 90%;
+  height: 100%;
+}
+.Hometext
+{
+  color: white;
+  text-align: center;
+  padding-top: 10%;
+}
+#home img
+{
+  width: 90%;
+  height: 100%;
+}
+.padding
+{
+  padding-top: 7%;
+}
+#about p{
+  font-size: 20px;
+}
+.projectstyle
+{
+  max-width: 22rem;
+  max-height:36rem;
+}
+.footer-section
+{
+  display:inline;
+  color: white;
+}
+.connect
+{
+  margin-left: 40%;
+  font-weight: bold;
+
+}
+.fa:hover
+{
+  cursor: pointer;
+}
+.phone
+{
+  font-size: 15px;
+  font-weight: bold;
+}
+.email
+{
+  margin-left: 60%;
+}
+.email small
+{
+  font-size: 15px;
+  font-weight: bold;
+}
+.email p
+{
+  font-size: 13px;
+}
+.projectstyle .btn
+{
+  background: #08172e;
+  color: white;
+}
+.navbar-dark .navbar-nav li a:hover
+{
+  color: orange !important;
+}
+.projectstyle .btn:hover
+{
+  color: orange;
+}
+.connect a
+{
+  text-decoration:none;
+  color: white;
+}
+.navbar.navbar-toggler-icon
+{
+  color: white!important;
+}
+@media (max-width:768px)
+{
+  .email
+  {
+    margin-left: 0%;
+    margin-top: 10px;
+  }
+  .connect
+  {
+    margin-left: 0%;
+  }
+  .projectstyle
+  {
+    margin: 0 0 10% 12%;
+  }
+}
+
